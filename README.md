@@ -23,8 +23,8 @@ I'm passionate about Web Development and Data Analysis. This portfolio showcases
 
 Thank you for visiting my portfolio repository! I hope you enjoy exploring my work. If you have any questions or would like to connect, don't hesitate to reach out.
 
-Sanjay Gangwar
-sanjaygangwar172@gmail.com
+Sanjay Gangwar <br>
+sanjaygangwar172@gmail.com<br>
 https://www.linkedin.com/in/sanjay-gangwar-a0ba8b202/
 
 
